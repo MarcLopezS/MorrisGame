@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\GAMER\Desktop\otros\proyectos\Morris\src\Game.cpp(36,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MorrisGame.vcxproj -> C:\Users\GAMER\source\repos\MorrisGame\Debug\MorrisGame.exe
